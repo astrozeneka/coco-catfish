@@ -1,0 +1,6 @@
+all-dataset/**/*
+dataset/**/*
+dataset-ocr/**/*
+models/**/*
+output/**/*
+test-crop/**/*
